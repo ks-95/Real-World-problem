@@ -34,3 +34,6 @@ To view the analysis on the sample data provided:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ks-95/your-repo-name.git](https://github.com/ks-95/your-repo-name.git)
+2.
+   ```bash
+      pip install -r requirements.txt
