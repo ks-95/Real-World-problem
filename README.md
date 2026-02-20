@@ -28,12 +28,3 @@ The public portion of this repository focuses on the **Analysis Layer**. Below i
 2.  **Anomaly Detection:** Algorithmic identification of properties priced significantly above or below the area median.
 3.  **Trend Mapping:** Visualization of price fluctuations across different BHK types and localities.
 
-## 💻 Running the Analysis
-To view the analysis on the sample data provided:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/ks-95/your-repo-name.git](https://github.com/ks-95/your-repo-name.git)
-2.
-   ```bash
-      pip install -r requirements.txt
