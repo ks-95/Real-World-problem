@@ -2,7 +2,7 @@
 
 This repository showcases the analytical core of my Price Intelligence startup. While the data collection engine (web scraper) remains proprietary, this project demonstrates the processing, cleaning, and deep-dive analysis of real estate market data.
 
-![Data Snapshot](path/to/your/image.png) 
+![Data Snapshot]("D:\OneDrive\Desktop\my_startup\final_folder\kolkata_real_estate_viz.png") 
 *Note: Replace 'path/to/your/image.png' with the actual filename of the image you upload to GitHub.*
 
 ## 🚀 Project Overview
